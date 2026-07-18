@@ -32,8 +32,8 @@
 <img align="right" width="40%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
-name: Your Name
-role: Software Engineer & AI/ML Engineer
+name: Krushnat Mahadev Salavi
+role: MERN Satck Devloper
 focus:
   - Designing scalable, distributed backend systems
   - Building production-grade machine learning pipelines
