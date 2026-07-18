@@ -110,7 +110,7 @@ A production-grade recommendation system leveraging collaborative filtering and 
 | **Performance** | P99 latency < 120ms, 99.9% uptime |
 | **Security** | OAuth2, rate limiting, encrypted data at rest |
 | **Impact** | +23% engagement, +15% session duration |
-| **Repository** | [github.com/your-username/recommendation-engine](https://github.com/your-username/recommendation-engine) |
+| **Repository** | [https://github.com/KrushnatSalavi/KrushnatSalavi/] |
 
 Built with a modular architecture separating feature extraction, model inference, and serving layers, enabling independent scaling and A/B testing of model versions in production.
 
@@ -129,7 +129,7 @@ A full-stack, cloud-native platform for scheduling and orchestrating distributed
 | **Performance** | Horizontal autoscaling, sub-second job dispatch |
 | **Security** | RBAC, JWT auth, VPC isolation |
 | **Impact** | Reduced infra costs by 30% via smart batching |
-| **Repository** | [github.com/your-username/task-orchestrator](https://github.com/your-username/task-orchestrator) |
+| **Repository** | [github.com/your-username/realtime-analytics](https://github.com/KrushnatSalavi/KrushnatSalavi/) |
 
 Designed with an event-driven architecture using message queues to decouple producers and workers, enabling fault-tolerant, horizontally scalable job execution.
 
@@ -148,7 +148,7 @@ An enterprise analytics dashboard providing real-time data visualization and ano
 | **Performance** | Sub-second dashboard refresh at scale |
 | **Security** | SSO integration, audit logging |
 | **Impact** | Cut incident detection time by 40% |
-| **Repository** | [github.com/your-username/realtime-analytics](https://github.com/your-username/realtime-analytics) |
+| **Repository** | [github.com/your-username/realtime-analytics](https://github.com/KrushnatSalavi/KrushnatSalavi/) |
 
 Streaming data pipeline built on Kafka with ClickHouse for columnar storage, powering interactive visualizations with sub-second query performance at high cardinality.
 
@@ -156,34 +156,8 @@ Streaming data pipeline built on Kafka with ClickHouse for columnar storage, pow
 
 ---
 
-## 💼 Experience
 
-### Software Engineer Intern
-**Company Name** &nbsp;|&nbsp; *Jun 2025 – Aug 2025*
 
-Contributed to backend infrastructure and ML-powered features for a production platform serving enterprise clients.
-
-- Designed and shipped RESTful APIs consumed by 100K+ daily active users
-- Built and deployed a classification model improving pipeline accuracy by 18%
-- Optimized database queries, reducing average response time by 35%
-- Collaborated in an agile team using CI/CD pipelines for weekly releases
-
-`Python` `Django` `PostgreSQL` `Docker` `AWS` `Git`
-
----
-
-### Machine Learning Research Intern
-**Organization Name** &nbsp;|&nbsp; *Jan 2025 – May 2025*
-
-Conducted applied ML research, translating experimental models into deployable prototypes.
-
-- Developed a transformer-based NLP model for domain-specific text classification
-- Authored internal technical documentation and reproducible experiment pipelines
-- Presented findings to cross-functional stakeholders
-
-`Python` `PyTorch` `Hugging Face` `Pandas` `Jupyter`
-
----
 
 ## 🏆 Achievements
 
@@ -201,26 +175,7 @@ Conducted applied ML research, translating experimental models into deployable p
 
 ---
 
-## 📜 Certifications
 
-**AWS**
-<br/>
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e)
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e)
-
-**Oracle**
-<br/>
-![Oracle Certified](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a2e)
-
-**NPTEL**
-<br/>
-![NPTEL](https://img.shields.io/badge/NPTEL_Elite-Data_Structures-6D28D9?style=for-the-badge&labelColor=1a1a2e)
-![NPTEL](https://img.shields.io/badge/NPTEL_Elite-Machine_Learning-6D28D9?style=for-the-badge&labelColor=1a1a2e)
-
-**Cisco**
-<br/>
-![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e)
-![Cisco](https://img.shields.io/badge/Cisco_Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e)
 
 ---
 
@@ -229,9 +184,6 @@ Conducted applied ML research, translating experimental models into deployable p
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e)](https://leetcode.com/your-username)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-Institute_Rank_1-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e)](https://geeksforgeeks.org/user/your-username)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5_Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e)](https://hackerrank.com/your-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e)](https://codechef.com/users/your-username)
 
 </div>
 
@@ -252,13 +204,6 @@ Conducted applied ML research, translating experimental models into deployable p
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" />
-
-</div>
 
 ---
 
@@ -276,7 +221,7 @@ Conducted applied ML research, translating experimental models into deployable p
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/KrushnatSalavi/KrushnatSalavi/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
 </div>
 
