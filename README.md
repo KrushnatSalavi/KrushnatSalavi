@@ -55,7 +55,7 @@ I'm a BCA student and full-stack developer specializing in the **MERN stack**, b
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,c&theme=dark" />
 
 **Frontend**
 <br/>
@@ -67,7 +67,7 @@ I'm a BCA student and full-stack developer specializing in the **MERN stack**, b
 
 **Cloud, DevOps & Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,figma&theme=dark" />
 
 </div>
 
@@ -210,28 +210,13 @@ Actively building full-stack MERN applications alongside coursework, applying cl
 
 ---
 
-## 📜 Certifications
 
-> *Add your certifications here as you earn them — grouped by provider, using badges like the examples below.*
-
-**AWS**
-<br/>
-![AWS](https://img.shields.io/badge/AWS_Certified-Add_Yours-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e)
-
-**NPTEL**
-<br/>
-![NPTEL](https://img.shields.io/badge/NPTEL-Add_Yours-6D28D9?style=for-the-badge&labelColor=1a1a2e)
-
----
 
 ## 💻 Coding Profiles
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve_%26_Add-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e)](https://leetcode.com/KrushnatSalavi)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Add_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e)](https://geeksforgeeks.org/user/KrushnatSalavi)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Add_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e)](https://hackerrank.com/KrushnatSalavi)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Add_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e)](https://codechef.com/users/KrushnatSalavi)
 
 </div>
 
@@ -250,15 +235,7 @@ Actively building full-stack MERN applications alongside coursework, applying cl
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KrushnatSalavi&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" />
-
-</div>
 
 ---
 
