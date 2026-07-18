@@ -257,7 +257,7 @@ Actively building full-stack MERN applications alongside coursework, applying cl
 
 </div>
 
-> To activate this, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your `KrushnatSalavi/KrushnatSalavi` repo — it auto-generates this SVG on a schedule.
+
 
 ---
 
