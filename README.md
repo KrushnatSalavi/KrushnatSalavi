@@ -189,7 +189,6 @@ Actively building full-stack MERN applications alongside coursework, applying cl
 
 `React` `Node.js` `Express` `MongoDB` `JavaScript` `Git`
 
-> *Add your internships or freelance roles here as you take them on — this section is ready to expand.*
 
 ---
 
