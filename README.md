@@ -225,12 +225,12 @@ Actively building full-stack MERN applications alongside coursework, applying cl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KrushnatSalavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=KrushnatSalavi&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Krushnat_Salavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Krushnat_Salavi&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrushnatSalavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushnat_Salavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10" width="49%" />
 
 </div>
 
